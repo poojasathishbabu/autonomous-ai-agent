@@ -1,0 +1,5 @@
+[project]
+name="autonomous-ai-agent"
+version="1.0.0"
+requires-python=">=3.11"
+dependencies=["langgraph","langchain-core","pydantic","fastapi","uvicorn"]
